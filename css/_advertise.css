@@ -1,0 +1,27 @@
+.advertise {
+
+}
+
+    .advertise__header {
+        font-size: 22px;
+        line-height: 24px;
+        color: #666;
+    }
+
+    .advertise__title {
+        font-size: 15px;
+        line-height: 17px;
+        color: #666;
+        margin-top: 15px;
+    }
+
+    .advertise__text {
+        font-size: 12px;
+        line-height: 16px;
+        color: #474747;
+        margin-top: 15px;
+    }
+
+    .advertise__link {
+        margin-top: 7px;
+    }

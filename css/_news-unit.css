@@ -1,0 +1,26 @@
+.news-unit {
+
+}
+
+    .news-unit__date {
+        font-size: 15px;
+        line-height: 17px;
+        color: #666;
+    }
+
+    .news-unit__image {
+        width: 190px;
+        height: 110px;
+        margin-top: 8px;
+    }
+
+    .news-unit__text {
+        margin-top: 15px;
+        font-size: 12px;
+        line-height: 16px;
+        color: #474747;
+    }
+
+    .news-unit__link {
+        margin-top: 10px;
+    }

@@ -1,0 +1,24 @@
+.news-preview {
+
+}
+
+    .news-preview__title {
+        font-size: 22px;
+        line-height: 24px;
+        color: #666;
+    }
+
+    .news-preview__list {
+        margin-top: 15px;
+    }
+
+        .news-preview__list__item {
+            margin-left: 23px;
+            display: inline-block;
+            vertical-align: top;
+            width: 190px;
+        }
+
+        .news-preview__list__item:first-child {
+            margin-left: 0;
+        }
