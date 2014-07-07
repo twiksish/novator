@@ -1,0 +1,38 @@
+.phones {
+    background: #f7f7f7;
+    padding: 15px;
+    position: relative;
+}
+
+    .phones__top {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+        .phones__top__code {
+            color: #666;
+            display: inline;
+        }
+
+        .phones__top__number {
+            color: #474747;
+            display: inline;
+        }
+
+    .phones__handler {
+        font-size: 12px;
+        line-height: 14px;
+        color: #474747;
+        margin-top: 7px;
+    }
+
+        .phones__handler__text {
+            border-bottom: 1px dotted #474747;
+            width: 150px;
+        }
+
+        .phones__handler__icon {
+            position: absolute;
+            top: 57px;
+            right: 85px;
+        }

@@ -1,0 +1,18 @@
+.partners {
+
+}
+
+    .partners__item {
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 20px;
+    }
+
+    .partners__item:first-child {
+        margin-left: 0;
+    }
+
+        .partners__item__image {
+            height: 93px;
+            width: 100%;
+        }

@@ -1,17 +1,22 @@
 .icon {
     display: inline-block;
     vertical-align: top;
-    background: url(../images/sprite.png) no-repeat;
 }
 
-.icon_bitcoin {
-    width: 33px;
-    height: 33px;
-    background-position: 0 -72px;
+.icon_arrow {
+    width: 7px;
+    height: 4px;
+    background: url(../images/icon_arrow.png);
 }
 
-.icon_house {
-    width: 13px;
-    height: 10px;
-    background-position: -33px -72px;
+.icon_geo {
+    width: 10px;
+    height: 14px;
+    background: url(../images/icon_geo.png);
+}
+
+.icon_mail {
+    width: 11px;
+    height: 8px;
+    background: url(../images/icon_mail.png);
 }
