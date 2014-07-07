@@ -22,5 +22,6 @@
     }
 
     .page__footer {
-        margin: 20px 0 0;
+        margin: 71px 0 0;
+        background: url(../images/footer_background.jpg) repeat-x;
     }

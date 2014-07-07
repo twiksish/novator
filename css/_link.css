@@ -5,6 +5,11 @@
     color: #00938e;
 }
 
+.link_mail {
+    font-size: 15px;
+    line-height: 17px;
+}
+
 .link:hover {
     text-decoration: none;
 }

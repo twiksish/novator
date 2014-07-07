@@ -1,9 +1,43 @@
 .footer {
-    height: 100px;
+    height: 127px;
     position: relative;
 }
+
+    .footer__logo {
+        position: absolute;
+        top: 18px;
+        left: -5px;
+        background: url(../images/footer_logo.png) no-repeat;
+        width: 130px;
+        height: 54px;
+    }
+
     .footer__copyright {
         position: absolute;
+        top: 84px;
         left: 0;
-        top: 10px;
+        font-size: 12px;
+        line-height: 14px;
+        color: #474747;
+    }
+
+    .footer__address {
+        position: absolute;
+        top: 58px;
+        left: 338px;
+        font-size: 15px;
+        line-height: 20px;
+        color: #474747;
+    }
+
+    .footer__icon {
+        position: absolute;
+        top: 60px;
+        left: 320px;
+    }
+
+    .footer__contacts {
+        position: absolute;
+        top: 11px;
+        right: 0;
     }

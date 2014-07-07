@@ -23,7 +23,7 @@
         font-size: 12px;
         line-height: 14px;
         color: #474747;
-        margin-top: 7px;
+        margin-top: 4px;
     }
 
         .phones__handler__text {
@@ -36,3 +36,25 @@
             top: 57px;
             right: 85px;
         }
+
+    .phones__mail {
+        margin-top: 8px;
+    }
+
+        .phones__mail__icon {
+            display: inline-block;
+            vertical-align: bottom;
+            height: 8px;
+            position: relative;
+            top: -2px;
+        }
+
+        .phones__mail__link {
+            display: inline-block;
+            vertical-align: bottom;
+            margin-left: 8px;
+        }
+
+.phones_footer {
+    background: none;
+}
