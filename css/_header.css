@@ -10,12 +10,12 @@
 
     .header__middle {
         position: absolute;
-        top: 20px;
-        right: 300px;
+        top: 24px;
+        right: 274px;
     }
 
     .header__right {
         position: absolute;
-        top: 20px;
-        right: 0;
+        top: 16px;
+        right: -31px;
     }

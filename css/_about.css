@@ -1,0 +1,39 @@
+.about {
+
+}
+
+    .about__left {
+        width: 290px;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .about__right {
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 49px;
+        width: 616px;
+    }
+
+        .about__right__title {
+            font-size: 28px;
+            line-height: 30px;
+            color: #666;
+        }
+
+        .about__right__text {
+            font-size: 15px;
+            line-height: 22px;
+            color: #474747;
+            margin-top: 15px;
+        }
+
+        .about__right__link {
+            margin-top: 17px;
+        }
+
+    .about__separator {
+        height: 1px;
+        background: #e4e4e4;
+        margin-top: 46px;
+    }
