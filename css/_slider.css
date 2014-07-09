@@ -1,0 +1,17 @@
+.slider {
+    position: relative;
+}
+
+    .slider__image {
+
+    }
+
+    .slider__text {
+        font-size: 38px;
+        line-height: 38px;
+        color: #fff;
+        width: 500px;
+        position: absolute;
+        top: 170px;
+        right: 222px;
+    }

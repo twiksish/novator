@@ -1,6 +1,6 @@
 .phones {
     background: #f7f7f7;
-    padding: 15px 20px 52px 17px;
+    padding: 15px 20px 55px 17px;
     position: relative;
 }
 
@@ -24,6 +24,7 @@
         line-height: 14px;
         color: #474747;
         margin-top: 4px;
+        cursor: pointer;
     }
 
         .phones__handler__text {
@@ -36,6 +37,14 @@
             top: 57px;
             right: 85px;
         }
+
+    .phones__list {
+        position: absolute;
+        top: 86px;
+        right: 0;
+        display: none;
+        z-index: 200;
+    }
 
     .phones__mail {
         margin-top: 8px;

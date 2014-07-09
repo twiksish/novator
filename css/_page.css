@@ -1,5 +1,5 @@
 .page {
-
+    position: relative;
 }
     .page__header {
 
@@ -14,7 +14,12 @@
     }
 
     .page__nav {
-        margin: 20px 0 0;
+        position: absolute;
+        top: 180px;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        background: #1a62ae;
     }
 
     .page__body {
